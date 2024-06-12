@@ -1,7 +1,7 @@
 {
-    "name": "Chinese Class",
-    "short_name": "Chinese",
-    "description": "Chinese Class Review App",
+    "name": "Castle Store",
+    "short_name": "kStore",
+    "description": "Castle Potomac Store",
    
     "scope": "/",
     "start_url": "/",
