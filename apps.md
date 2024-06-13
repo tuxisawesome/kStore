@@ -1,2 +1,2 @@
 # Apps
-[Click here to download Schoolbell 1.1.0](/schoolbell.ipa)
+[Click here to download Schoolbell 2.0.0](/schoolbell.ipa)
